@@ -1,4 +1,8 @@
 {
   "Package_Version": "1.0.0",
-  "Software_Version": "0.0.0.1.0 (Alpha)"
+  "Software_Version": "0.0.0.1.0 (Alpha)",
+  "Features": {
+       "Add": ['Fetch'],
+       "Remove": ['src Folder','redesigned Folder']
+  }
 }
